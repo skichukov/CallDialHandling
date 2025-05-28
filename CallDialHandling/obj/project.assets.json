@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stili\\source\\repos\\CallDialHandling\\CallDialHandling.csproj",
+      "projectUniqueName": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\CallDialHandling\\CallDialHandling\\CallDialHandling.csproj",
       "projectName": "CallDialHandling",
-      "projectPath": "C:\\Users\\Stili\\source\\repos\\CallDialHandling\\CallDialHandling.csproj",
+      "projectPath": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\CallDialHandling\\CallDialHandling\\CallDialHandling.csproj",
       "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stili\\source\\repos\\CallDialHandling\\obj\\",
+      "outputPath": "C:\\Users\\Stili\\OneDrive\\Документи\\GitHub\\CallDialHandling\\CallDialHandling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",
