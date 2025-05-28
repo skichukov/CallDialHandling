@@ -1,0 +1,15 @@
+C:\Users\Stili\source\repos\CallDialHandling\bin\Debug\net7.0\CallDialHandling.exe
+C:\Users\Stili\source\repos\CallDialHandling\bin\Debug\net7.0\CallDialHandling.deps.json
+C:\Users\Stili\source\repos\CallDialHandling\bin\Debug\net7.0\CallDialHandling.runtimeconfig.json
+C:\Users\Stili\source\repos\CallDialHandling\bin\Debug\net7.0\CallDialHandling.dll
+C:\Users\Stili\source\repos\CallDialHandling\bin\Debug\net7.0\CallDialHandling.pdb
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.csproj.AssemblyReference.cache
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.AssemblyInfoInputs.cache
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.AssemblyInfo.cs
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.csproj.CoreCompileInputs.cache
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.dll
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\refint\CallDialHandling.dll
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.pdb
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\CallDialHandling.genruntimeconfig.cache
+C:\Users\Stili\source\repos\CallDialHandling\obj\Debug\net7.0\ref\CallDialHandling.dll
